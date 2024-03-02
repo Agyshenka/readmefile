@@ -1,6 +1,6 @@
 ## World of Tanks: Руководство для начинающих
 
-<img src="kandinsky-download-1709365529153.png" />
+<a href="https://worldoftanks.com/"><img src="kandinsky-download-1709365529153.png" /></a>
 
 **Добро пожаловать в мир танковых сражений!**
 
